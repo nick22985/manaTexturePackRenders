@@ -636,10 +636,106 @@ let svaDic = {
 	CapeFeather: {
 		static: '/arcade_crate/capefeather.png',
 	},
-	'manaspaceblaster': {
+	manaspaceblaster: {
 		static: '', //no texture
 	},
-	'scorpionsword': {
+	scorpionsword: {
 		static: '/arcade_crate/scorpionsword.png',
-	}
-}
+	},
+	invaderspixkaxe: {
+		static: '/arcade_crate/invaderspickaxe.png',
+	},
+	donkeykonghammer: {
+		static: '/arcade_crate/donkeykonghammer.png',
+	},
+	'manafirework-arcade' : {
+		static: '', //no texture
+	},
+	'manasets-spooky-helmet' :{
+		static: '', //no texture
+	},
+	'manasets-spooky-chestplate' :{
+		static: '', //no texture
+	},
+	'manasets-spooky-leggings' :{
+		static: '', //no texture
+	},
+	'manasets-spooky-boots' :{
+		static: '', //no texture
+	},
+	ancientscimitar: {
+		static: '/egypt_crate/pharaoh_sword.png',
+	},
+	tutankhamonspickaxe: {
+		static: '/egypt_crate/pharaoh_axe.png',
+	},
+	serpent: {
+		static: '/egypt_crate/serpent_wand.png',
+	},
+	'manasets-mv-halloween20-helmet' :{
+		static: '', //no texture
+	},
+	'manasets-mv-halloween20-chestplate' :{
+		static: '', //no texture
+	},
+	'manasets-mv-halloween20-leggings' :{
+		static: '', //no texture
+	},
+	'manasets-mv-halloween20-boots' :{
+		static: '', //no texture
+	},
+	'mv-bloodyscythe' :{
+		static: '/halloween20_crate/scythe.png',
+	},
+	'manasets-mv-egypt20-helmet' : {
+		static: '', //no texture
+	},
+	'manasets-mv-egypt20-chestplate' : {
+		static: '', //no texture
+	},
+	'manasets-mv-egypt20-leggings' : {
+		static: '', //no texture
+	},
+	'manasets-mv-egypt20-boots' : {
+		static: '', //no texture
+	},
+	'mv-khufublade': {
+		static: '', //FIXMEL: TEXUTRE?
+	},
+	'mv-ancientpickaxe' :{
+		static: '',
+	},
+	'wildtools-ankh_staff_limited' :{
+		static: '/egypt_crate/ankh_staff.png',
+	},
+	'manasets-mv-magic20-helmet' :{
+		static: '', //no texture
+	},
+	'manasets-mv-magic20-chestplate' :{
+		static: '', //no texture
+	},
+	'manasets-mv-magic20-leggings' :{
+		static: '', //no texture
+	},
+	'manasets-mv-magic20-boots' :{
+		static: '', //no texture
+	},
+	'mv-angelicbow' :{
+		static: '/misc/heroic_bow2.png', //FIXMEL: Correct crate
+	},
+	'mv-cursedblade' :{
+		static: '', //FIXMEL: Texture
+	},
+	'manasets-magic-helmet' :{
+		static: '', //no texture
+	},
+	'manasets-magic-chestplate' :{
+		static: '', //no texture
+	},
+	'manasets-magic-leggings' :{
+		static: '', //no texture
+	},
+	'manasets-magic-boots' :{
+		static: '', //no texture
+	},
+};
