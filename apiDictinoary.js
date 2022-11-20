@@ -648,19 +648,19 @@ let svaDic = {
 	donkeykonghammer: {
 		static: '/arcade_crate/donkeykonghammer.png',
 	},
-	'manafirework-arcade' : {
+	'manafirework-arcade': {
 		static: '', //no texture
 	},
-	'manasets-spooky-helmet' :{
+	'manasets-spooky-helmet': {
 		static: '', //no texture
 	},
-	'manasets-spooky-chestplate' :{
+	'manasets-spooky-chestplate': {
 		static: '', //no texture
 	},
-	'manasets-spooky-leggings' :{
+	'manasets-spooky-leggings': {
 		static: '', //no texture
 	},
-	'manasets-spooky-boots' :{
+	'manasets-spooky-boots': {
 		static: '', //no texture
 	},
 	ancientscimitar: {
@@ -672,70 +672,121 @@ let svaDic = {
 	serpent: {
 		static: '/egypt_crate/serpent_wand.png',
 	},
-	'manasets-mv-halloween20-helmet' :{
+	'manasets-mv-halloween20-helmet': {
 		static: '', //no texture
 	},
-	'manasets-mv-halloween20-chestplate' :{
+	'manasets-mv-halloween20-chestplate': {
 		static: '', //no texture
 	},
-	'manasets-mv-halloween20-leggings' :{
+	'manasets-mv-halloween20-leggings': {
 		static: '', //no texture
 	},
-	'manasets-mv-halloween20-boots' :{
+	'manasets-mv-halloween20-boots': {
 		static: '', //no texture
 	},
-	'mv-bloodyscythe' :{
+	'mv-bloodyscythe': {
 		static: '/halloween20_crate/scythe.png',
 	},
-	'manasets-mv-egypt20-helmet' : {
+	'manasets-mv-egypt20-helmet': {
 		static: '', //no texture
 	},
-	'manasets-mv-egypt20-chestplate' : {
+	'manasets-mv-egypt20-chestplate': {
 		static: '', //no texture
 	},
-	'manasets-mv-egypt20-leggings' : {
+	'manasets-mv-egypt20-leggings': {
 		static: '', //no texture
 	},
-	'manasets-mv-egypt20-boots' : {
+	'manasets-mv-egypt20-boots': {
 		static: '', //no texture
 	},
 	'mv-khufublade': {
 		static: '', //FIXMEL: TEXUTRE?
 	},
-	'mv-ancientpickaxe' :{
+	'mv-ancientpickaxe': {
 		static: '',
 	},
-	'wildtools-ankh_staff_limited' :{
+	'wildtools-ankh_staff_limited': {
 		static: '/egypt_crate/ankh_staff.png',
 	},
-	'manasets-mv-magic20-helmet' :{
+	'manasets-mv-magic20-helmet': {
 		static: '', //no texture
 	},
-	'manasets-mv-magic20-chestplate' :{
+	'manasets-mv-magic20-chestplate': {
 		static: '', //no texture
 	},
-	'manasets-mv-magic20-leggings' :{
+	'manasets-mv-magic20-leggings': {
 		static: '', //no texture
 	},
-	'manasets-mv-magic20-boots' :{
+	'manasets-mv-magic20-boots': {
 		static: '', //no texture
 	},
-	'mv-angelicbow' :{
+	'mv-angelicbow': {
 		static: '/misc/heroic_bow2.png', //FIXMEL: Correct crate
 	},
-	'mv-cursedblade' :{
+	'mv-cursedblade': {
 		static: '', //FIXMEL: Texture
 	},
-	'manasets-magic-helmet' :{
+	'manasets-magic-helmet': {
 		static: '', //no texture
 	},
-	'manasets-magic-chestplate' :{
+	'manasets-magic-chestplate': {
 		static: '', //no texture
 	},
-	'manasets-magic-leggings' :{
+	'manasets-magic-leggings': {
 		static: '', //no texture
 	},
-	'manasets-magic-boots' :{
+	'manasets-magic-boots': {
 		static: '', //no texture
 	},
-};
+	'chainmailhelmet': {
+		static: '', //no texture
+	},
+	'chainmailchestplate': {
+		static: '', //no texture
+	},
+	'chainmailleggings': {
+		static: '', //no texture
+	},
+	'chainmailboots': {
+		static: '', //no texture
+	},
+	'dragonmask': {
+		static: '/medieval_crate/dragon_mask.png',
+	},
+	flail: {
+		static: '/medieval_crate/flail.png',
+	},
+	templarshield: {
+		static: '/medieval_crate/templar_shield.png',
+	},
+	eldenpickaxe: {
+		static: '/medieval_crate/elden_pickaxe.png',
+	},
+	nightriderglaive: {
+		static: '/medieval_crate/nightrider_glaive.png',
+	},
+	'manaupgradeableitems-excalibur': {
+		static: '/medieval_crate/excalibur_1.png',
+	},
+	'manaupgradeableitems-excalibur-2': {
+		static: '/medieval_crate/excalibur_1.png',
+	},
+	'manaupgradeableitems-excalibur-3': {
+		static: '/medieval_crate/excalibur_1.png',
+	},
+	'manaupgradeableitems-excalibur-4': {
+		static: '/medieval_crate/excalibur_2.png',
+	},
+	'manaupgradeableitems-excalibur-5': {
+		static: '/medieval_crate/excalibur_2.png',
+	},
+	'manaupgradeableitems-excalibur-6': {
+		static: '/medieval_crate/excalibur_2.png',
+	},
+	'manaupgradeableitems-excalibur-7': {
+		static: '/medieval_crate/excalibur_3.png',
+	},
+	'manaupgradeableitems-excalibur-8': {
+		static: '/medieval_crate/excalibur_3.png',
+	},
+}
